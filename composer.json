@@ -1,0 +1,14 @@
+{
+    "name": "gravitypdf/jp-markdown",
+    "description": "A Git Repo for the JP-Markdown WordPress plugin (standalone markdown for Jetpack)",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Gravity PDF",
+            "email": "admin@gravitypdf.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
