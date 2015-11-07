@@ -5,7 +5,7 @@
  * Plugin URI: http://wordpress.org/plugins/jetpack-markdown/
  * Description: Write posts or pages in plain-text Markdown syntax.
  * Author: JP Bot
- * Version: 3.6
+ * Version: 3.7
  * Text Domain: jetpack
  * Domain Path: /languages/
  * License: GPL2 or later
