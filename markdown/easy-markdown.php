@@ -438,7 +438,7 @@ class WPCom_Markdown {
 		}
 		// rejigger post_content and post_content_filtered
 		// revisions are already in the right place, except when we're restoring, but that's taken care of elsewhere
-		if ( 'revision' !== $post_data['post_type'] ) {
+		if ( 'revision' !== $post_data['post_type'] && ! isset( $_POST['_inline_edit'] ) ) {
 			/**
 			 * Filter the original post content passed to Markdown.
 			 *
