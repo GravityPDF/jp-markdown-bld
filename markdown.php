@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Plugin Name: JP Markdown
+ * Plugin Name: JP Markdown BLD
  * Plugin URI: http://wordpress.org/plugins/jetpack-markdown/
  * Description: Write posts or pages in plain-text Markdown syntax.
  * Author: JP Bot
